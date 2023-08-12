@@ -1,6 +1,8 @@
 # Hello there 👋
 
-![image](https://github.com/yelzha/yelzha/assets/54392243/021c3196-7e4f-4e4b-83f2-237becd3ef18)
+![image (2)](https://github.com/yelzha/yelzha/assets/54392243/8278ab35-a3c2-4c98-894d-8e2787bb8d85)
+
+
 
 # I'm Zhastay Yeltay 🔥    
 
