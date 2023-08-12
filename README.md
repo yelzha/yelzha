@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![image](https://github.com/yelzha/yelzha/assets/54392243/021c3196-7e4f-4e4b-83f2-237becd3ef18)
 
 # I'm Zhastay Yeltay 🔥    
 
