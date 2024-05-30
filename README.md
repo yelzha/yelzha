@@ -121,7 +121,7 @@
 
 
 
-
+<!--
 <details>
   <summary>Some other achievements</summary>
   <br>
@@ -147,7 +147,8 @@
   <a href= "#"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
   </p>
 
-  <!--
+  
   ![data-engineer-specialist-02](https://github.com/yelzha/yelzha/assets/54392243/34c8e99b-73ab-47ee-bb08-8d09626da027)
-  -->
+  
 </p>
+-->
