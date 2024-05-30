@@ -1,15 +1,126 @@
 # Hello there 👋
-
+<!---
 ![header_dark_blue](https://github.com/yelzha/yelzha/assets/54392243/1345e0c0-f6b0-4309-afd1-c557e70ddac7)
-
+-->
 
 # I'm Zhastay Yeltay 🔥    
 
 * 🧐   Interested in Big and Data engineering. 
 * 💼   Favorite Tech: Python, SQL, Spark, Airflow, ML, DL ...
 * 🌱   Currently learning DE.
-* 📚   Doing Leetcode, Stratascratch, InterviewQuery, SQLPad, DataLemur, CodeWars, Sql-ex
-* 🏁   Finished HackerRank(SQL:58/58)
+* 📚   Doing:
+  *  [HackerRank](https://www.hackerrank.com/profile/yelzha)
+  *  [LeetCode](https://leetcode.com/u/yelzha/)
+  *  [Stratascratch](https://platform.stratascratch.com/user/yelzha)
+  *  [InterviewQuery]()
+  *  [SQLPad]()
+  *  [DataLemur]()
+  *  [CodeWars]()
+  *  [Sql-ex]()
+
+# Progress Tracker
+
+<table>
+  <tr>
+    <th>Platform</th>
+    <th>Language</th>
+    <th>Difficulty</th>
+    <th>Tasks</th>
+    <th>Finished</th>
+  </tr>
+  <tr>
+    <td>HackerRank</td>
+    <td rowspan="1">SQL</td>
+    <td>All</td>
+    <td>58/58</td>
+    <td>Done ✅</td>
+  </tr>
+  <tr>
+    <td rowspan="3">LeetCode</td>
+    <td rowspan="3">All</td>
+    <td>easy</td>
+    <td>162/797</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>medium</td>
+    <td>63/1664</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>hard</td>
+    <td>5/706</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">LeetCode</td>
+    <td rowspan="2">SQL</td>
+    <td>Free</td>
+    <td>58/58</td>
+    <td>Done ✅</td>
+  </tr>
+  <tr>
+    <td>Premium Tasks</td>
+    <td>79/269</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="9">Stratascratch</td>
+    <td rowspan="3">SQL</td>
+    <td>easy</td>
+    <td>237/237</td>
+    <td>Done ✅</td>
+  </tr>
+  <tr>
+    <td>medium</td>
+    <td>290/290</td>
+    <td>Done ✅</td>
+  </tr>
+  <tr>
+    <td>hard</td>
+    <td>113/113</td>
+    <td>Done ✅</td>
+  </tr>
+  <tr>
+    <td rowspan="3">PySpark</td>
+    <td>easy</td>
+    <td>0/237</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>medium</td>
+    <td>0/290</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>hard</td>
+    <td>0/113</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Pandas</td>
+    <td>easy</td>
+    <td>0/237</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>medium</td>
+    <td>0/290</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>hard</td>
+    <td>0/113</td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 <details>
   <summary>Some other achievements</summary>
