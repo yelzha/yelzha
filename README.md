@@ -36,7 +36,7 @@
     <td>Done ✅</td>
   </tr>
   <tr>
-    <td rowspan="3">LeetCode</td>
+    <td rowspan="5">LeetCode</td>
     <td rowspan="3">All</td>
     <td>easy</td>
     <td>162/797</td>
@@ -53,7 +53,6 @@
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">LeetCode</td>
     <td rowspan="2">SQL</td>
     <td>Free</td>
     <td>58/58</td>
