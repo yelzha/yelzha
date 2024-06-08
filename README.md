@@ -55,7 +55,7 @@
   <tr>
     <td rowspan="2">SQL</td>
     <td>Free</td>
-    <td>58/58</td>
+    <td>79/79</td>
     <td>Done ✅</td>
   </tr>
   <tr>
