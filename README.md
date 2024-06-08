@@ -224,3 +224,7 @@ Summary: 36 certs by Datacamp, 4 certs by Cloudera, 3 certs by HackerRank, 11 ce
   
 </p>
 -->
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yelzha&layout=compact)
