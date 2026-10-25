@@ -8,7 +8,7 @@ I work on generative models for human motion and on the robustness of LLM agents
 ### Recent publications
 
 - **More Agents Improve Math Problem Solving but Adversarial Robustness Gap Persists**: *Findings of ACL 2026*, equal-contribution first author · [paper](https://aclanthology.org/2026.findings-acl.2158/) · [code](https://github.com/yelzha/multi-agent-adversarial-robustness)
-- **BONSAI: Browser-Optimized Neural Gaussian Avatar Streaming**: *ACM Web3D 2026* · [paper](https://doi.org/10.1145/3822516.3834888)
+- **BONSAI: Browser-Optimized Neural Gaussian Avatar Streaming**: *ACM Web3D 2026*, 🏆 Scientific Excellence Award · [paper](https://doi.org/10.1145/3822516.3834888)
 - **Detection of offensive content in the Kazakh language using machine learning and deep learning approaches**: *PeerJ Computer Science 2025* · [paper](https://doi.org/10.7717/peerj-cs.3027)
 
 [All publications →](https://yelzha.github.io/#publications)
